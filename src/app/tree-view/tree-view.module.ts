@@ -4,7 +4,6 @@ import { TreeViewComponent } from './tree-view.component';
 
 @NgModule({
   declarations: [
-    Test
   ],
   imports: [
     TreeViewComponent,
