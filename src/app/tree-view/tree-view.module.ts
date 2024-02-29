@@ -3,7 +3,6 @@ import { TreeViewComponent } from './tree-view.component';
 
 @NgModule({
   declarations: [
-    
   ],
   imports: [
     TreeViewComponent,
