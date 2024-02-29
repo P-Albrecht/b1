@@ -1,8 +1,11 @@
+import {Test} from '@angular/cdk/test';
 import { NgModule } from '@angular/core';
 import { TreeViewComponent } from './tree-view.component';
 
 @NgModule({
-  declarations: [],
+  declarations: [
+    Test
+  ],
   imports: [
     TreeViewComponent,
   ],
